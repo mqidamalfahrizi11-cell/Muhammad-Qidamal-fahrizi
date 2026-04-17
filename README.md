@@ -1,6 +1,6 @@
-# Tag-Tag dalam HTML
+# Contoh Tag-Tag dalam HTML
 
-Belajar beberapa tag dasar dalam HTML
+beberapa tag dasar dalam HTML
 
 ## Contoh dan Fungsi setiap tag
 
@@ -17,7 +17,7 @@ Belajar beberapa tag dasar dalam HTML
 
 ---
 
-## Sedikit Contoh dan Fungsi Atribut dalam HTML
+## Contoh dan Fungsi Atribut dalam HTML
 
 1. **type** = Menentukan jenis dari sebuah elemen (biasanya pada `<input>`).
 2. **id** = Memberikan nama unik pada satu elemen tertentu.
